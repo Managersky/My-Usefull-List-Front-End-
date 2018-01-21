@@ -1,6 +1,8 @@
 # My-Usefull-List_Front-End
+Collection consist to courses, blogs, articles and many, many more about web development.
 
-1) Courses
+
+## Courses
 
 #ENG
 
