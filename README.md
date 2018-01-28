@@ -149,6 +149,8 @@ https://jsfiddle.net/ - Online text editor
 
 https://www.google.com/analytics/ - Internet analysis
 
+http://blog.sellfy.com/cheat-sheets-for-web-designers/ - Popular cheat sheets for web designer
+
 #PL
 
 https://support.google.com/chrome/answer/157179 - Skróty klawiszowe Chrome
