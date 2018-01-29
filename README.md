@@ -63,6 +63,10 @@ http://cezarywalenciuk.pl/blog/programing/post/jak-zaczac-z-javascript-w-roku-20
 
 http://jsbin.com/ - JS Debugging
 
+http://jsben.ch/index - Test speed of different js scripts
+
+http://jslint.com/ - Quality test 
+
 http://facebook.github.io/jest/docs/en/getting-started.html - Jest
 
 http://airbnb.io/enzyme/ - Enzyme
@@ -152,6 +156,8 @@ https://www.google.com/analytics/ - Internet analysis
 http://blog.sellfy.com/cheat-sheets-for-web-designers/ - Popular cheat sheets for web designer
 
 #PL
+
+http://domanart.pl/warsztat-webmastera/ - Przydatne wskazówki
 
 https://support.google.com/chrome/answer/157179 - Skróty klawiszowe Chrome
 
