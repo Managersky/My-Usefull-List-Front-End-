@@ -57,6 +57,8 @@ http://kursjs.pl/ - Wprowadzenie do JS'a
 
 http://cezarywalenciuk.pl/blog/programing/post/jak-zaczac-z-javascript-w-roku-2018 - Zbiór ciekawych materiałów o JS
 
+https://www.youtube.com/watch?v=JFDScHg6Dws&list=PLTs20Q-BTEMPRSzhrlAuu7yus1BuOLVrS - Szybka powtórka podstaw
+
 ### Testing / Debugging
 
 #ENG
