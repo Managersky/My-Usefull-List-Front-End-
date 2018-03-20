@@ -1,4 +1,4 @@
-# My-Usefull-List_Front-End
+# My-Useful-List_Front-End
 Collection consist courses, blogs, articles and many, many more about web development.
 
 ## Courses / Trainings (Basics)
