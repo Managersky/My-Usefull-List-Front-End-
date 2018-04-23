@@ -61,7 +61,15 @@ http://kursjs.pl/ - Wprowadzenie do JS'a
 
 https://www.youtube.com/watch?v=JFDScHg6Dws&list=PLTs20Q-BTEMPRSzhrlAuu7yus1BuOLVrS - Szybka powtórka podstaw
 
-### Testing / Debugging
+## React / Redux
+
+#ENG
+
+https://www.javascriptstuff.com/ - A lot of information about JS and React
+
+https://github.com/reactjs/redux - Redux documentation
+
+## Testing / Debugging
 
 #ENG
 
