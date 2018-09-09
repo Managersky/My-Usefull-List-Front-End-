@@ -41,6 +41,16 @@ http://flexboxfroggy.com/#pl - Gra wprowadzająca do CSS Flexbox
 
 http://cssgridgarden.com/#pl - Gra wprowadzająca do CSS Grid
 
+## Git
+
+#ENG
+
+https://learngitbranching.js.org/ - Good for start
+
+https://1drv.ms/f/s!ArgFJPS7Zy7PiBeAFOf8urvjEF_L - Advanced GIT
+
+https://chris.beams.io/posts/git-commit/ - How to write commits
+
 ## Java Script
 
 #ENG
@@ -55,19 +65,46 @@ https://mbeaudru.github.io/modern-js-cheatsheet/ - Modern JS Cheatsheet
 
 https://jgthms.com/javascript-in-14-minutes/ - Quick refresh information about JS
 
+https://github.com/ryanmcdermott/clean-code-javascript#introduction - General concept
+
 #PL
 
 http://kursjs.pl/ - Wprowadzenie do JS'a
 
 https://www.youtube.com/watch?v=JFDScHg6Dws&list=PLTs20Q-BTEMPRSzhrlAuu7yus1BuOLVrS - Szybka powtórka podstaw
 
-## React / Redux
+## React / Redux / MobX / TypeScript
 
 #ENG
 
 https://www.javascriptstuff.com/ - A lot of information about JS and React
 
 https://github.com/reactjs/redux - Redux documentation
+
+https://1drv.ms/f/s!ArgFJPS7Zy7PiBmBMZ2hJD8a3WXr - Building Applications with React and Redux in ES6
+
+https://vasanthk.gitbooks.io/react-bits/
+
+https://americanexpress.io/clean-code-dirty-code/
+
+https://daveceddia.com/react-practice-projects/
+
+http://www.js-craft.io/blog/16-Roadmap-to-learn-React/
+
+https://code.tutsplus.com/tutorials/stateful-vs-stateless-functional-components-in-react--cms-29541 - stateless vs stateful
+
+https://1drv.ms/f/s!ArgFJPS7Zy7PiTjm8ISi_72MWkug, https://code.tutsplus.com/tutorials/a-gentle-introduction-to-higher-order-components-in-react-part-3-best-practices--cms-30221 - High Order Component
+
+React with Redux:
+- https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/
+- https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/
+- https://auth0.com/blog/redux-practical-tutorial/
+
+https://medium.com/@aksudupa11/redux-sagas-714370b61692 - Redux saga
+
+https://mobx.js.org/ - MobX
+
+https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935 - TypeScript and React
 
 ## Testing / Debugging
 
@@ -115,6 +152,8 @@ http://johnpolacek.github.io/scrolldeck.js/decks/responsive/ - What is RWD? (Goo
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw - RWD Tutorial
 
 https://mediaqueri.es/ - RWD examples
+
+https://wanago.io/2018/07/16/webpack-4-course-part-one-entry-output-and-es6-modules/
 
 #PL
 
