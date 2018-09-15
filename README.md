@@ -67,6 +67,8 @@ https://jgthms.com/javascript-in-14-minutes/ - Quick refresh information about J
 
 https://github.com/ryanmcdermott/clean-code-javascript#introduction - General concept
 
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/ - Design Patterns JS
+
 #PL
 
 http://kursjs.pl/ - Wprowadzenie do JS'a
