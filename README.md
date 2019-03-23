@@ -55,17 +55,13 @@ https://chris.beams.io/posts/git-commit/ - How to write commits
 
 #ENG
 
-http://jsforcats.com/ - Basics of JS (only for cats!)
+https://www.sitepoint.com/mind-tricks-to-learn-javascript-faster/ - How to learn JS
 
 http://javascript.info/ - First steps in JS
 
 https://javascript30.com/ - 30 tasks for 30 days
 
-https://mbeaudru.github.io/modern-js-cheatsheet/ - Modern JS Cheatsheet
-
 https://jgthms.com/javascript-in-14-minutes/ - Quick refresh information about JS
-
-https://github.com/ryanmcdermott/clean-code-javascript#introduction - General concept
 
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/ - Design Patterns JS
 
@@ -83,8 +79,6 @@ https://www.javascriptstuff.com/ - A lot of information about JS and React
 
 https://github.com/reactjs/redux - Redux documentation
 
-https://1drv.ms/f/s!ArgFJPS7Zy7PiBmBMZ2hJD8a3WXr - Building Applications with React and Redux in ES6
-
 https://vasanthk.gitbooks.io/react-bits/
 
 https://americanexpress.io/clean-code-dirty-code/
@@ -94,8 +88,6 @@ https://daveceddia.com/react-practice-projects/
 http://www.js-craft.io/blog/16-Roadmap-to-learn-React/
 
 https://code.tutsplus.com/tutorials/stateful-vs-stateless-functional-components-in-react--cms-29541 - stateless vs stateful
-
-https://1drv.ms/f/s!ArgFJPS7Zy7PiTjm8ISi_72MWkug, https://code.tutsplus.com/tutorials/a-gentle-introduction-to-higher-order-components-in-react-part-3-best-practices--cms-30221 - High Order Component
 
 React with Redux:
 - https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/
