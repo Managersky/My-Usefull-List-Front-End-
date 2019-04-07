@@ -7,13 +7,15 @@ Collection consist courses, blogs, articles and many, many more about web develo
 
 https://www.udemy.com/ - A lot of diffrent & interesting courses (not only about front-end)
 
-https://www.freecodecamp.org/map#collapseFront-End-Development-Certification - Diffrent courses about web development
+https://www.freecodecamp.org/map#collapseFront-End-Development-Certification
 
-#PL
+https://www.codecademy.com/
 
-https://kursownik.pl/ - Zestaw kursów zawierających podstawy HTML/CSS/JS/Adobe/Git
+https://tutsplus.com/
 
-https://pl.khanacademy.org/computing/computer-programming/html-css - Wprowadzenie do HTML/CSS
+https://www.lynda.com/
+
+https://www.pluralsight.com/
 
 ## HTML / CSS
 
