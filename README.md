@@ -1,4 +1,4 @@
-# My-Useful-List_Front-End
+# My  Front-End Collection
 Collection consist courses, blogs, articles and many, many more about web development.
 
 ## Courses / Trainings (Basics)
@@ -215,13 +215,41 @@ https://docs.emmet.io/ - Documentation about Emmet
 
 https://docs.emmet.io/cheat-sheet/ - Cheat sheet
 
+### VSCode Extensions
+
+1) Live Server
+2) Live Sass Compiler
+3) HTML CSS Support
+4) Auto Rename Tag
+5) Prettier
+6) JS(ES6) Snippets
+7) Turbo Console Log 
+8) Indent Rainbow
+9) Bracket Pair Colorizer 
+10) Code Spell Checker 
+11) REST Client 
+12) GitLens 
+13) Auto Markdown Preview 
+14) ES7 React/Redux Snippets 
+15) Vetur 
+16) Color picker
+17) Beautify
+18) Auto Close Tag
+19) Cobalt2
+20) Monokai Pro (Classic)
+21) Eslint
+22) Jest Snippets
+23) Material Icon Theme
+24) TODO Highlight
+25) npm
+26) npm Intellisense
+27) Path Intellisense
+
 ### Gamification
 
 #ENG
 
 https://www.codewars.com/ - Train your skill in programming
-
-https://www.enki.com/ - Daily workout for web devs
 
 ## Blogs
 
@@ -229,33 +257,23 @@ https://www.enki.com/ - Daily workout for web devs
 
 https://frontendfront.com/ - Agregation site about Front-End
 
-https://whatwg.org/ - HTML Updates & News
+https://frontendfoc.us/ - A once–weekly roundup of the best front-end news, articles and tutorials.
 
-https://www.smashingmagazine.com/ - Curiosities about front-end
+https://scotch.io/
 
-https://uptodate.frontendrescue.org/ - Contains important updates in front-end world
+https://alligator.io/
 
-#PL
+http://javascriptissexy.com/
 
-https://www.polskifrontend.pl/ - Polish agregation site about Front-End
+https://www.robinwieruch.de/
 
-## Forums
+## Hosting
 
-#PL
-
-http://forum.webhelp.pl/ 
-
-http://www.forumweb.pl/
-
-## Hostings
-
-#ENG
+#ENG / #PL
 
 https://www.netlify.com/
 
 https://zeit.co/now
-
-#PL
 
 https://home.pl/
 
@@ -263,12 +281,12 @@ https://www.ovh.pl/
 
 ## Meetups
 
-#ENG
-
-https://eventil.com/
-
-#PL
+#ENG / #PL
 
 https://www.meetup.com/pl-PL/
+
+https://www.eventbrite.com/
+
+https://eventil.com/
 
 https://crossweb.pl/
