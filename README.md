@@ -39,21 +39,15 @@ https://cssgrid.io/ - Learn CSS Grid
 
 http://how2html.pl/ - Basics of HTML5
 
-http://flexboxfroggy.com/#pl - Gra wprowadzająca do CSS Flexbox
-
-http://cssgridgarden.com/#pl - Gra wprowadzająca do CSS Grid
-
 ## Git
-
-#ENG
 
 https://learngitbranching.js.org/ - Good for start
 
-https://1drv.ms/f/s!ArgFJPS7Zy7PiBeAFOf8urvjEF_L - Advanced GIT
-
 https://chris.beams.io/posts/git-commit/ - How to write commits
 
-## Java Script
+http://ndpsoftware.com/git-cheatsheet.html#loc=workspace - interactive cheetsheet
+
+## JavaScript
 
 #ENG
 
@@ -63,17 +57,13 @@ http://javascript.info/ - First steps in JS
 
 https://javascript30.com/ - 30 tasks for 30 days
 
-https://jgthms.com/javascript-in-14-minutes/ - Quick refresh information about JS
-
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/ - Design Patterns JS
 
 #PL
 
 http://kursjs.pl/ - Wprowadzenie do JS'a
 
-https://www.youtube.com/watch?v=JFDScHg6Dws&list=PLTs20Q-BTEMPRSzhrlAuu7yus1BuOLVrS - Szybka powtórka podstaw
-
-## React / Redux / MobX / TypeScript
+## React
 
 #ENG
 
@@ -96,66 +86,23 @@ React with Redux:
 - https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/
 - https://auth0.com/blog/redux-practical-tutorial/
 
-https://medium.com/@aksudupa11/redux-sagas-714370b61692 - Redux saga
-
-https://mobx.js.org/ - MobX
-
-https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935 - TypeScript and React
-
-## Testing / Debugging
-
-#ENG
-
-http://jsbin.com/ - JS Debugging
-
-http://jsben.ch/index - Test speed of different js scripts
-
-http://jslint.com/ - Quality test 
-
-http://facebook.github.io/jest/docs/en/getting-started.html - Jest
-
-http://airbnb.io/enzyme/ - Enzyme
-
-
-## Sass / Less
-
-#ENG
+## Sass/Less
 
 https://scotch.io/tutorials/getting-started-with-sass - Introduction into Sass
 
 https://www.sassmeister.com/ - Playground for Sass, Compass, and LibSass
 
-http://sass-lang.com/documentation/Sass/Script/Functions.html - Sass documentation
-
 http://winless.org/online-less-compiler - Less Compiler
 
-#PL
-
-http://shebang.pl/artykuly/podstawy-sass/ - Podstawy Sass
-
 ## Webpack
-
-#ENG
 
 https://medium.com/javascript-training/beginner-s-guide-to-webpack-b1f1a3638460 - Good for start
 
 ## RWD
 
-#ENG
-
 http://johnpolacek.github.io/scrolldeck.js/decks/responsive/ - What is RWD? (Good explanaition)
 
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw - RWD Tutorial
-
-https://mediaqueri.es/ - RWD examples
-
-https://wanago.io/2018/07/16/webpack-4-course-part-one-entry-output-and-es6-modules/
-
-#PL
-
-http://jestem.mobi/2012/09/responsive-web-design-czyli-dlaczego-liquid-layout-juz-nie-wystarczy/ - RWD na start
-
-### Comunity Web Design
+### Inspiration
 
 https://dribbble.com/
 
@@ -163,23 +110,17 @@ https://www.cssdesignawards.com/
 
 http://www.csswinner.com/
 
-https://www.siteinspire.com/
-
-https://www.awwwards.com/websites/sites_of_the_day/
-
 https://tympanus.net/codrops/
 
 http://collectui.com/designs
 
-### My Personal Inspiration
+https://svgporn.com/
 
-https://lhbzr.com/
+https://goodui.org/
 
-http://www.yourflow.pl/
+https://graphicburger.com/
 
 ## Useful
-
-#ENG
 
 https://market.envato.com/ - Everything what you need for your creative project
 
@@ -195,21 +136,9 @@ https://jsfiddle.net/ - Online text editor
 
 https://www.google.com/analytics/ - Internet analysis
 
-http://blog.sellfy.com/cheat-sheets-for-web-designers/ - Popular cheat sheets for web designer
-
-#PL
-
-http://domanart.pl/warsztat-webmastera/ - Przydatne wskazówki
-
-http://domanart.pl/programy-dla-webmastera/ - Przydatne programy dla webmastera
-
-https://support.google.com/chrome/answer/157179 - Skróty klawiszowe Chrome
-
-https://www.nettecode.com/wp-content/uploads/2017/08/keyboard-shortcuts-windows-mod.pdf - Skróty klawiszowe VS Code
+https://devhints.io/ - Popular cheat sheets
 
 ### Emmet
-
-#ENG
 
 https://docs.emmet.io/ - Documentation about Emmet
 
@@ -247,13 +176,9 @@ https://docs.emmet.io/cheat-sheet/ - Cheat sheet
 
 ### Gamification
 
-#ENG
-
 https://www.codewars.com/ - Train your skill in programming
 
 ## Blogs
-
-#ENG
 
 https://frontendfront.com/ - Agregation site about Front-End
 
