@@ -67,19 +67,7 @@ http://kursjs.pl/ - Wprowadzenie do JS'a
 
 #ENG
 
-https://www.javascriptstuff.com/ - A lot of information about JS and React
-
-https://github.com/reactjs/redux - Redux documentation
-
-https://vasanthk.gitbooks.io/react-bits/
-
-https://americanexpress.io/clean-code-dirty-code/
-
-https://daveceddia.com/react-practice-projects/
-
 http://www.js-craft.io/blog/16-Roadmap-to-learn-React/
-
-https://code.tutsplus.com/tutorials/stateful-vs-stateless-functional-components-in-react--cms-29541 - stateless vs stateful
 
 React with Redux:
 - https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/
