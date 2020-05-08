@@ -1,29 +1,27 @@
 # My  Front-End Collection
 Collection consist courses, blogs, articles and many, many more about web development.
 
-## Courses / Trainings (Basics)
+## Platform with courses
 
-#ENG
-
-https://www.udemy.com/ - A lot of diffrent & interesting courses (not only about front-end)
-
-https://www.freecodecamp.org/map#collapseFront-End-Development-Certification
+https://www.udemy.com/
 
 https://www.codecademy.com/
 
-https://tutsplus.com/
-
-https://www.lynda.com/
+https://egghead.io/
 
 https://www.pluralsight.com/
 
-## HTML / CSS
+https://frontendmasters.com/
 
-#ENG
+## HTML / CSS
 
 https://internetingishard.com/html-and-css/ - Tutorial for begginers (HTML & CSS)
 
 http://htmlreference.io/ - HTML elements with examples
+
+https://htmldom.dev/ - Manage HTML DOM with vanilla JavaScript
+
+https://html5please.com/ - HTML5 and CSS3, etc features, find out how you should use them
 
 http://cssreference.io/ - CSS properties with examples
 
@@ -35,62 +33,35 @@ https://flexbox.io/ - Learn CSS Flexbox
 
 https://cssgrid.io/ - Learn CSS Grid
 
-#PL
-
-http://how2html.pl/ - Basics of HTML5
-
 ## Git
 
-https://learngitbranching.js.org/ - Good for start
+https://learngitbranching.js.org/ - Interactive course
+
+https://www.youtube.com/watch?time_continue=1&v=uR6G2v_WsRA&feature=emb_title - Introduction to Git - Core Concepts
 
 https://chris.beams.io/posts/git-commit/ - How to write commits
 
-http://ndpsoftware.com/git-cheatsheet.html#loc=workspace - interactive cheetsheet
+https://www.git-tower.com/learn/git/ebook/en/command-line/basics/what-is-version-control#start - Learn Version Control with Git
 
 ## JavaScript
 
-#ENG
-
-https://www.sitepoint.com/mind-tricks-to-learn-javascript-faster/ - How to learn JS
-
-http://javascript.info/ - First steps in JS
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 https://javascript30.com/ - 30 tasks for 30 days
 
+https://eloquentjavascript.net/00_intro.html
+
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/ - Design Patterns JS
-
-#PL
-
-http://kursjs.pl/ - Wprowadzenie do JS'a
-
-## React
-
-#ENG
-
-http://www.js-craft.io/blog/16-Roadmap-to-learn-React/
-
-React with Redux:
-- https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/
-- https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/
-- https://auth0.com/blog/redux-practical-tutorial/
-
-## Sass/Less
-
-https://scotch.io/tutorials/getting-started-with-sass - Introduction into Sass
-
-https://www.sassmeister.com/ - Playground for Sass, Compass, and LibSass
-
-http://winless.org/online-less-compiler - Less Compiler
 
 ## Webpack
 
-https://medium.com/javascript-training/beginner-s-guide-to-webpack-b1f1a3638460 - Good for start
+https://survivejs.com/webpack/foreword/
 
 ## RWD
 
 http://johnpolacek.github.io/scrolldeck.js/decks/responsive/ - What is RWD? (Good explanaition)
 
-### Inspiration
+## Inspiration
 
 https://dribbble.com/
 
@@ -107,99 +78,3 @@ https://svgporn.com/
 https://goodui.org/
 
 https://graphicburger.com/
-
-## Useful
-
-https://market.envato.com/ - Everything what you need for your creative project
-
-https://developer.mozilla.org/en-US/docs/Web - Web technology for developers
-
-https://caniuse.com/ - You can check here browser supports
-
-https://avocode.com/ - Tool for convert PSD to HTML/CSS
-
-https://validator.w3.org/ - Validation service
-
-https://jsfiddle.net/ - Online text editor
-
-https://www.google.com/analytics/ - Internet analysis
-
-https://devhints.io/ - Popular cheat sheets
-
-### Emmet
-
-https://docs.emmet.io/ - Documentation about Emmet
-
-https://docs.emmet.io/cheat-sheet/ - Cheat sheet
-
-### VSCode Extensions
-
-1) Live Server
-2) Live Sass Compiler
-3) HTML CSS Support
-4) Auto Rename Tag
-5) Prettier
-6) JS(ES6) Snippets
-7) Turbo Console Log 
-8) Indent Rainbow
-9) Bracket Pair Colorizer 
-10) Code Spell Checker 
-11) REST Client 
-12) GitLens 
-13) Auto Markdown Preview 
-14) ES7 React/Redux Snippets 
-15) Vetur 
-16) Color picker
-17) Beautify
-18) Auto Close Tag
-19) Cobalt2
-20) Monokai Pro (Classic)
-21) Eslint
-22) Jest Snippets
-23) Material Icon Theme
-24) TODO Highlight
-25) npm
-26) npm Intellisense
-27) Path Intellisense
-
-### Gamification
-
-https://www.codewars.com/ - Train your skill in programming
-
-## Blogs
-
-https://frontendfront.com/ - Agregation site about Front-End
-
-https://frontendfoc.us/ - A once–weekly roundup of the best front-end news, articles and tutorials.
-
-https://scotch.io/
-
-https://alligator.io/
-
-http://javascriptissexy.com/
-
-https://www.robinwieruch.de/
-
-## Hosting
-
-#ENG / #PL
-
-https://www.netlify.com/
-
-https://zeit.co/now
-
-https://home.pl/
-
-https://www.ovh.pl/
-
-## Meetups
-
-#ENG / #PL
-
-https://www.meetup.com/pl-PL/
-
-https://www.eventbrite.com/
-
-https://eventil.com/
-
-https://crossweb.pl/
