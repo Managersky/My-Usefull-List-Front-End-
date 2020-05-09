@@ -63,6 +63,8 @@ http://johnpolacek.github.io/scrolldeck.js/decks/responsive/ - What is RWD? (Goo
 
 ## Inspiration
 
+https://github.com/bradtraversy/design-resources-for-developers - Great design collection for developers
+
 https://dribbble.com/
 
 https://www.cssdesignawards.com/ 
