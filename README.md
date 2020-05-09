@@ -49,6 +49,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 https://flaviocopes.com/javascript/ - Roadmap for JS
 
+https://bravelab.io/blog/how-does-javascript-work/ - How does JavaScript work ?
+
 https://javascript30.com/ - 30 tasks for 30 days
 
 https://eloquentjavascript.net/00_intro.html
