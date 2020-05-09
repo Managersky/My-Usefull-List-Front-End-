@@ -47,6 +47,8 @@ https://www.git-tower.com/learn/git/ebook/en/command-line/basics/what-is-version
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
+https://flaviocopes.com/javascript/ - Roadmap for JS
+
 https://javascript30.com/ - 30 tasks for 30 days
 
 https://eloquentjavascript.net/00_intro.html
